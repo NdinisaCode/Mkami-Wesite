@@ -1,4 +1,4 @@
-[Mkami.html](https://github.com/user-attachments/files/24223977/Mkami.html)[Uploa<!DOCTYPE html>
+(https://github.com/user-attachments/files/24223977/Mkami.html)
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -90,7 +90,7 @@
 
       <!-- Replace image1.jpg and image2.jpg with your photos -->
       <!--<img src="Picture-1.jpg" alt="Our Photo">-->
-      <img src="Picture-2.jpg" alt="Another Memory">
+      <img src="Picture-2.jpg" alt="Sam">
 
       <!-- Replace song.mp3 with your song -->
 	  <p> I also put one of your favourite songs for you to listen to &#129782</p>
@@ -118,8 +118,5 @@
 
 </body>
 </html>
-ding Mkami.html…]()
-[2002-Anne-Marie.mp3](https://github.com/user-attachments/files/24223980/2002-Anne-Marie.mp3)
 
-![Picture-2](https://github.com/user-attachments/assets/bbc10240-6595-45ed-89ce-1a2277aec6f6)
 
