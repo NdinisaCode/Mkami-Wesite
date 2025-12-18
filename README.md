@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/24223977/Mkami.html)
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -86,14 +86,14 @@
 
     <div class="message" id="message">
       <h2>Mkami❤️</h2>
-      <p>I just wanted to say... I really enjoy talking to you. You make my days a little brighter with your beautiful smile.I've been enjoying our conversations and I might be getting a little too used to hearing from you but I like it,I'm excited to keep getting to know you, wherever this goes. That's all i wanted to say..Enjoy your Day Mkami.&#129782</p>
+      <p>I just wanted to say... I really enjoy talking to you. You make my days a little brighter with your beautiful smile.I've been enjoying our conversations and I might be getting a little too used to hearing from you but I like it,I'm excited to keep getting to know you, wherever this goes. That's all i wanted to say..Enjoy your Day Mkami.🫶</p>
 
       <!-- Replace image1.jpg and image2.jpg with your photos -->
       <!--<img src="Picture-1.jpg" alt="Our Photo">-->
       <img src="Picture-2.jpg" alt="Sam">
 
       <!-- Replace song.mp3 with your song -->
-	  <p> I also put one of your favourite songs for you to listen to &#129782</p>
+	  <p> I also put one of your favourite songs for you to listen to 🫶</p>
       <audio controls autoplay>
         <source src="2002-Anne-Marie.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
